@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @yousufhumran
-- 👀 I’m interested in Automation & Software Development
-- 🌱 I’m currently learning Python & Java
+Hi, I’m Yousuf Humran
+I'm a student & progammer
+I’m interested in Automation & Software Development
+I’m currently learning Java
 
 <!---
 yousufhumran/yousufhumran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
